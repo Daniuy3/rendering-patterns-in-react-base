@@ -1,0 +1,33 @@
+
+[
+    {
+        "id": 1,
+        "name": "Tacos",
+        "description": "Tortillas filled with seasoned meat, vegetables, and salsa.",
+        "image": "/plant.png"
+    },
+    {
+        "id": 2,
+        "name": "Sushi",
+        "description": "Vinegared rice accompanied by various ingredients such as seafood and vegetables.",
+        "image": "/plant.png"
+    },
+    {
+        "id": 3,
+        "name": "Pizza",
+        "description": "Flatbread topped with tomato sauce, cheese, and various toppings.",
+        "image": "/plant.png"
+    },
+    {
+        "id": 4,
+        "name": "Paella",
+        "description": "Spanish rice dish with seafood, chicken, and vegetables.",
+        "image": "/plant.png"
+    },
+    {
+        "id": 5,
+        "name": "Pasta",
+        "description": "Italian dish made from wheat dough, often served with sauce.",
+        "image": "/plant.png"
+    }
+]
